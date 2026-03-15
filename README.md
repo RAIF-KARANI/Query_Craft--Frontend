@@ -35,7 +35,7 @@ The application utilizes the modern Next.js App Router (`src/app/`) paradigm for
 ## Project Structure
 
 ```text
-querycraft-frontend/
+Query_Craft--Frontend/
 ├── package.json                   # Dependencies and build scripts
 ├── next.config.ts                 # Next.js configuration
 ├── tailwind.config.ts             # Tailwind CSS configuration
@@ -64,7 +64,7 @@ Run the following commands to clone the repository, navigate to the directory, a
 git clone https://github.com/RAIF-KARANI/Query_Craft--Frontend.git
 
 # Navigate into the project directory
-cd querycraft-frontend
+cd Query_Craft--Frontend
 
 # Install NPM dependencies
 npm install
